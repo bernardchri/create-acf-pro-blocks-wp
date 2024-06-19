@@ -1,0 +1,8 @@
+{
+  "name": "bergallwp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "create": "node ./create-acf-block.js"
+  }
+}
