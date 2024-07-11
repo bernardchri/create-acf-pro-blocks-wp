@@ -15,7 +15,7 @@ Bootstrap de création de blocks ACF pour thème FSE wordpress
     npm run create monNouveauBlocks
 ```
 
-- Copier/coller la ligne du terminal `register_block_type(MAISONS_NEHO_DIR_PATH . "/patterns/monNouveauBloc");` dans **functions.php** pour enregister le blocks
+- Copier/coller la ligne du terminal `register_block_type(PATH . "/patterns/monNouveauBloc");` dans **functions.php** pour enregister le blocks
 
 
 
